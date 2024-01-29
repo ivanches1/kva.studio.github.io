@@ -1,1 +1,1 @@
-# kva.studio.github.io
+# kva.studio.io
